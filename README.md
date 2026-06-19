@@ -9,18 +9,21 @@ Built using the MERN Stack with Socket.IO, SyncUp enables teams to create projec
 ## 🌟 Features
 
 ### 🔐 Authentication & Security
+
 - JWT-based Authentication
 - Secure Password Hashing using bcrypt
 - Protected Routes
 - Role-Based Access Control (RBAC)
 
 ### 👥 Team Collaboration
+
 - Create and Manage Projects
 - Request-Based Project Joining System
 - Admin Approval Workflow
 - Team Member Management
 
 ### 📋 Task Management
+
 - Kanban-Style Task Board
 - Task Assignment
 - Priority Management
@@ -31,18 +34,21 @@ Built using the MERN Stack with Socket.IO, SyncUp enables teams to create projec
   - Completed
 
 ### ⚡ Real-Time Functionality
+
 - Instant Notifications
 - Live Task Updates
 - Real-Time Project Activity
 - Socket.IO Integration
 
 ### 📊 Analytics & Reporting
+
 - Project Statistics Dashboard
 - Task Distribution Charts
 - Team Contribution Analysis
 - Excel Data Export
 
 ### 📱 Responsive Design
+
 - Mobile-Friendly Interface
 - Modern UI with Tailwind CSS
 - Fast and Smooth User Experience
@@ -68,6 +74,7 @@ Real-time communication is powered by **Socket.IO**.
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 - React
 - Vite
 - React Router
@@ -76,6 +83,7 @@ Real-time communication is powered by **Socket.IO**.
 - Recharts
 
 ### Backend
+
 - Node.js
 - Express.js
 - MongoDB
@@ -83,6 +91,7 @@ Real-time communication is powered by **Socket.IO**.
 - Socket.IO
 
 ### Security
+
 - JWT (JSON Web Tokens)
 - bcryptjs
 - CORS
@@ -219,6 +228,7 @@ SyncUp uses Socket.IO to provide:
 - Instant Team Activity Alerts
 
 All notifications are:
+
 - Delivered in real-time
 - Persisted in MongoDB
 - Marked Read/Unread
@@ -252,12 +262,14 @@ All notifications are:
 ## 🎯 Future Enhancements
 
 ### Short-Term
+
 - Automated Testing (Jest & Cypress)
 - API Rate Limiting
 - Enhanced Logging
 - Error Monitoring
 
 ### Medium-Term
+
 - Task Comments
 - File Attachments
 - Time Tracking
@@ -265,6 +277,7 @@ All notifications are:
 - Activity Timeline
 
 ### Long-Term
+
 - Mobile Applications
 - AI-Powered Task Suggestions
 - Slack & GitHub Integration
