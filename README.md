@@ -327,4 +327,12 @@ This project is licensed under the MIT License.
 BCA (Hons.) Artificial Intelligence & Data Science  
 Graphic Era Hill University, Haldwani
 
+## 🌟 Founder’s Note
+
+During my college journey, I observed that project teams are often formed every semester, but the majority of the work is completed by only one or two students while others remain dependent on them. Mentors typically evaluate the final report and presentation without visibility into each student's actual contribution.
+
+Project Collaboration Hub was inspired by the transparency and collaboration culture seen on GitHub. The goal is to bring similar accountability and teamwork to academic projects by allowing mentors and examiners to understand who contributed, what work was completed, when it was completed, and how the team collaborated throughout the project.
+
+I hope this platform can help students learn more effectively, contribute fairly, and receive recognition for their genuine efforts.
+
 ⭐ If you like this project, don't forget to star the repository!
